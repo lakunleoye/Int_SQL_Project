@@ -53,7 +53,6 @@ Query: [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
 - In 2023, there was a drop in the numbers of customers acquired, which is concerning.
 - With both decreasing life-time-value (LTV) and dwindling customer acquisition, the company is facing a potential revenue decline.
 
-{Repeat for each analysis approach}
 
 ### 3. Customer Retention Analysis
 - Identified customers at risk of churning
