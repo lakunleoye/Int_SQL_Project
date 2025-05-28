@@ -28,7 +28,7 @@ Query: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
 **Business Insights**
 - High-value (66 % revenue): Offer premium membership program to 12,372 VIP customers as loosing one customer could significantly impact revenue
 - Mid-value (32 % revenue): Create upgrade paths through personalised promotions, with potential $66.6M - $135.4M revenue opportunity
-- Low-value (2 % revvenue): Design re-engagement campaaigns and price sensitive promotions to increase purchase frequency
+- Low-value (2 % revenue): Design re-engagement campaigns and price sensitive promotions to increase purchase frequency
 
 
 ### 2. Cohort Analysis
