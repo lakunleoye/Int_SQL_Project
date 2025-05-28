@@ -70,7 +70,7 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 **Key Findings:**
 - Cohort churn stabilises at ~ 90% after 2-3 years, indicating a predictable long-term retention pattern.
 - Retention rates are consistently low (8-10%) across all cohorts, suggesting retention issues are systematic rather than specific to certain years.
-- Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow thw same pattern.
+- Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow the same pattern.
     
 
 **Business Insights**
